@@ -1,5 +1,6 @@
 class Animal:
     # variable de clase que se inicializa cuando se importa el modulo animal
+    #solo me falla eso
     numAnimales = 0
 
     def __init__(self, age = "1", name = "dog"):
